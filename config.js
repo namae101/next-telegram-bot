@@ -1,6 +1,6 @@
 const config = {
   botToken: process.env.BOT_TOKEN,
-  currentHost: 'https://poll-test-bot.now.sh',
+  currentHost: 'https://poll-test-bot.vercel.app',
   isDevelopment: process.env.NODE_ENV === 'dev'
 }
 
